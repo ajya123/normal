@@ -2,9 +2,8 @@
 <html>
 <body>
 
-<p>This is an inline span <span style="border: 1px solid black">Hello World</span> element inside a paragraph.</p>
-
-<p>The SPAN element is an inline element, and will not start on a new line and only takes up as much width as necessary.</p>
+<h2>Using a Full URL File Path</h2>
+<img src="https://www.w3schools.com/images/picture.jpg" alt="Mountain" style="width:300px">
 
 </body>
 </html>
